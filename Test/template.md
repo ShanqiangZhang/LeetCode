@@ -1,7 +1,6 @@
 题目:   
 &emsp;&emsp;
 
-
 考点:   
 &emsp;&emsp;
 
@@ -9,10 +8,8 @@
 
 ```
 时空复杂度    
-Time:    
-&emsp;&emsp; 
-
-
+Time:
+&emsp;&emsp;  
 Space:
 &emsp;&emsp;
 
