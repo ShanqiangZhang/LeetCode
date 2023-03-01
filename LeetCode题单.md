@@ -12,44 +12,44 @@
 
 **(1) swap**
 
-| 题目                                                                                          | 代码                                                                                  |
-| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| [24. Swap Nodes in Pairs](url#https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [题解](url#https://leetcode.com/problems/swap-nodes-in-pairs/solutions/3245119/swap/) |
+| 题目 | link | 代码 |
+| --- | --- | --- |
+| 24. Swap Nodes in Pairs | https://leetcode.com/problems/swap-nodes-in-pairs/ | https://leetcode.com/problems/swap-nodes-in-pairs/solutions/3245119/swap/ |
 
 **(2) reverse**
 
-| 题目                         | link |
-| ---------------------------- | ---- |
-| 206. Reverse Linked List     |      |
-| 92. Reverse Linked List II   |      |
-| 25. Reverse Nodes in k-Group |      |
+| 题目 | link |
+| --- | --- |
+| 206. Reverse Linked List |  |
+| 92. Reverse Linked List II |  |
+| 25. Reverse Nodes in k-Group |  |
 
 **(3) rotate**
 
-| 题目            | link |
-| --------------- | ---- |
-| 61. Rotate List |      |
+| 题目 | link |
+| --- | --- |
+| 61. Rotate List |  |
 
 **(4) remove/move**   
 
-|                                           |
-| ----------------------------------------- |
+|  |
+| --- |
 | 82. Remove Duplicates from Sorted List II |
-| 83. Remove Duplicates from Sorted List    |
-| 86. Partition List                        |
+| 83. Remove Duplicates from Sorted List |
+| 86. Partition List |
 
 ### 1.1.5 链表环
 
-|                        |
-| ---------------------- |
+|  |
+| --- |
 | 141. Linked List Cycle |
 
 ### 1.1.6 深度copy链表
 
 copy链表用HashMap<oldNode, newNode> 来建立对应关系, 每次copy都要去map中找复制的新node, 不然复制过程会产生交叉
 
-|                                    |
-| ---------------------------------- |
+|  |
+| --- |
 | 138. Copy List with Random Pointer |
 
 ## 1.2 滑动窗口
