@@ -22,7 +22,7 @@
 
 ### 1.1.1 遍历和模拟
 
-| 题目 | 代码 |
+| 题目 | 题解 |
 | --- | --- |
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [题解](https://leetcode.com/problems/add-two-numbers/solutions/3249259/topic/) |
 
